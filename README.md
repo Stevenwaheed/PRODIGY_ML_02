@@ -15,12 +15,16 @@ Next, I applied the Elbow method to determine the optimal value of K for the K-m
 The Elbow method helps in selecting the number of clusters by plotting the within-cluster sum of squares as a function of the number of clusters. 
 Based on the analysis, I found that the optimal value of K for your dataset was 5.
 
+<p align="center">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_02/assets/83607748/82184c69-be74-455b-b9d7-45e88a569bb5">
+</p>
+
 Finally, I used the matplotlib library to create visualizations in order to examine and interpret the results of the clustering analysis. 
 These visualizations allowed me to gain insights into the customer segmentation and understand groups of customers that can be easily targeted for convergence. 
 These insights can then be utilized by the marketing team to develop appropriate strategies.
 
 <p align="center">
-  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_02/assets/83607748/fc852fcc-4b80-457f-8dcd-e6003f261dbd">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_02/assets/83607748/0d9eca75-78e0-4c84-93bc-cb68667005ad">
 </p>
 
 </p>
